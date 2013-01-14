@@ -1,6 +1,18 @@
 *.class
 
+# Eclipse Files #
+.classpath
+#.project
+#.settings
+
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Lock & Temp Files #
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
